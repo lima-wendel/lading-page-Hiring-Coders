@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.background {
+    height: 750px;
+    width: auto;
+    background-size: cover;
+    background-color: transparent;
+}
+.section-container {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.background-section {
+    background-image: url(../assets/18764762.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+.section-two {
+    background-image: url(../assets/happy-girl-shopping.jpg);
+    height: 800px;
+    width: auto;
+    background-size: cover;
+    background-color: transparent;
+    background-attachment: fixed;
+
+}
+
+.card-container {
+    border-radius: 0 10px 10px 0;
+    padding: 25px;
+    width: 300px;
+    max-width: 500px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+#mensagem {
+    font-size: 32px;
+    font-family:fantasy;
+}
+
+
+form {
+    display: grid;
+    
+}
+
+
+
+input {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #848484;
+	outline:0;
+	height:25px;
+	width: 275px;
+    background-color: white;
+}
+
+
+
+
+footer {
+    height: 150px;
+    padding: 25px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-family:sans-serif;
+}
