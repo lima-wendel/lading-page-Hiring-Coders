@@ -12,3 +12,5 @@ Entregáveis:
 -Cadastre seu e-mail para receber promoções 
 
 -Dados no localstorage
+
+Deploy: https://dazzling-bardeen-20dd0e.netlify.app
